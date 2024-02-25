@@ -1,7 +1,7 @@
 body {
   opacity: 85%;
   background: linear-gradient(135deg, #ff9696, #da8bff, #8bd0ff);
-  background-size: 400% 400%;
+  background-size: 800% 800%;
   animation-name: huerot;
   animation-play-state: running;
   animation-duration: 8s;
