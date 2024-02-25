@@ -4,7 +4,7 @@ body {
   background-size: 400% 400%;
   animation-name: huerot;
   animation-play-state: running;
-  animation-duration: 4s;
+  animation-duration: 8s;
   animation-fill-mode: forwards;
   animation-iteration-count: infinite;
 }
