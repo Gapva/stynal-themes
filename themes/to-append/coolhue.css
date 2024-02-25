@@ -1,0 +1,16 @@
+body {
+  opacity: 85%;
+  background: linear-gradient(135deg, #ff9696, #da8bff, #8bd0ff);
+  background-size: 400% 400%;
+  animation-name: huerot;
+  animation-play-state: running;
+  animation-duration: 4s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+}
+
+@keyframes huerot {
+    0%{background-position:0% 0%}
+    50%{background-position:100% 100%}
+    100%{background-position:0% 0%}
+}
