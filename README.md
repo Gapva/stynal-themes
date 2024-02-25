@@ -1,3 +1,6 @@
+These are themes for [Stynal](https://github.com/Gapva/Stynal), a theme loader for [Signal](https://signal.org/).  
+You will need Stynal in order to use the below themes.
+
 # [Safe Mode](https://github.com/Gapva/stynal-themes/raw/main/themes/safemode.css) `beta`
 By [Gapva](https://github.com/gapva)  
 > makes it so you have to hover over media to show them (does not apply to stickers nor emoji)
