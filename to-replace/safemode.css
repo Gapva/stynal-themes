@@ -1,0 +1,8 @@
+.module-image--with-background {
+  background-color: #ffffff;
+  transition-duration: 0.25s;
+  filter: blur(14pt);
+}
+.module-image--with-background:hover {
+  filter: blur(0pt);
+}
